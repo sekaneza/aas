@@ -1,0 +1,33 @@
+body{
+	color: #424e5a;
+	background-color:#fbfbfb;
+	font-family:"Open Sans",Arial,sans-serif;font-size:13px
+}
+footer{
+	background-color:#222;
+	color:#fff
+}
+.border_test{border:solid 2px red !important}
+.shadow{box-shadow:0 0 15px rgba(0,0,0,1)}
+.smooth_shadow{box-shadow:0 7px 7px #ddd}
+.clearLeft{clear:left}
+.clear-left{clear:left}
+.clear-right{clear:right}
+.clear-both{clear:both}
+.no_border{border:none!important}.no_bg{background:#fff}
+/*********************Padding & Margin****************************/
+.no_padding{padding:0px!important}.no_margin{margin:0px!important}
+.add_padding{padding:15px!important}.add_margin{margin:15px!important}
+.rlp{padding-left:0px!important}.rrp{padding-right:0px!important}.rtp{padding-top:0px!important}.rbp{padding-bottom:0px!important}
+.alp{padding-left:15px!important}.arp{padding-right:15px!important}.atp{padding-top:15px!important}.abp{padding-bottom:15px!important}
+.rlm{margin-left:0px!important}.rrm{margin-right:0px!important}.rtm{margin-top:0px!important}.rbm{margin-bottom:0px!important}
+.alm{margin-left:15px!important}.arm{margin-right:15px!important}.atm{margin-top:15px!important}.abm{margin-bottom:15px!important}
+/*****************************************************************/
+#menu_top>li>a:hover{
+	color: #000
+}
+.carousel-inner{height:450px}
+.present{
+	background-color: #265a88;
+	color:#fff
+}
